@@ -8,3 +8,8 @@ body {
 header {
     color: aliceblue;
 }
+
+main {
+	padding: 3em 0;
+	font-size: 20px;
+}

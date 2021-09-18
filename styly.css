@@ -6,7 +6,8 @@ body {
 }
 
 header {
-    color: aliceblue;
+    color: #b31c76;
+    background-color: chartreuse;
 }
 
 main {
@@ -16,4 +17,5 @@ main {
 
 footer {
     color: blue;
+    background-color: coral;
 }
